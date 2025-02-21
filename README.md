@@ -33,6 +33,7 @@ The repository implements five different control schemes for comparison:
 ## Running the Scripts
 1. Ensure you have Julia 1.8.5 installed.
 2. Install the required dependencies using Julia's package manager.
+4. First go the subfolder Ensemble Generation and check that out.
 3. Run `AS_MPC_Dam.ipynb` using Jupyter Notebook or another Julia-supported IDE.
 4. Use the plotting scripts to visualize results for different flood events.
 
