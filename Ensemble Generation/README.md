@@ -30,7 +30,7 @@ pip install pandas numpy xarray netCDF4 matplotlib
 ## Running the Scripts
 1. Ensure you have Python 3 installed with the required dependencies.
 2. Run `Ensemble_extractor_ERA5.ipynb` to extract ensemble precipitation data.
-3. Use the generated precipitation data as input to the SWAT model using the files from the data from [Zenodo Repository](https://zenodo.org/records/14909725).
+3. Use the generated precipitation data as input to the SWAT model using the files from the data from [Zenodo Repository](https://zenodo.org/records/14911780).
 4. Run `ENF.ipynb` to process SWAT outputs into a structured dataframe.
 5. Use visualization scripts to analyze ensemble spread and trends.
 
